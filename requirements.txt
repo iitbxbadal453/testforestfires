@@ -8,4 +8,5 @@ streamlit
 scikit-learn
 bs4
 streamlit
+gunicorn
 scikit-learn
